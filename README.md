@@ -53,6 +53,7 @@ Then pick `damin` under btop's <kbd>Esc</kbd> → **Options** → **color_theme*
 - **Used / occupied** lives in the **pink family** (`#A3677D` → `#F5B2C8`) — keeps "occupied" visually distinct from "loaded".
 - **Free / cached / available** stay in the **blue family** — abundance reads as calm.
 - **Box outlines** uniformly blue; pink reserved for titles and the selected row. Same convention as the tmux pane borders.
+- **Process state** — pause dims to `div_line`, follow tints blue, banner mauve, followed row pink (same as selected).
 - **No reds, no greens** — danger and safety are signalled by hue drift, not a third hue.
 
 ## Companion repos

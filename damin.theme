@@ -62,3 +62,11 @@ theme[upload_end]="#E890B0"
 theme[process_start]="#98ABCC"
 theme[process_mid]="#C09EBE"
 theme[process_end]="#E890B0"
+
+# Process state — overrides btop's default red pause / saturated banners.
+theme[proc_pause_bg]="#3a3a3a"
+theme[proc_follow_bg]="#98ABCC"
+theme[proc_banner_bg]="#C09EBE"
+theme[proc_banner_fg]="#1e1e1e"
+theme[followed_bg]="#E890B0"
+theme[followed_fg]="#1e1e1e"
